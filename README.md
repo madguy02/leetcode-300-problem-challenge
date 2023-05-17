@@ -2,7 +2,7 @@
 
 ## How does the challenge work? 🔥
     - [X] Set a deadline for 300 problems - 30/09/2023
-    - [] Push all the problems to the repo - 30/09/2023
+    - [ ] Push all the problems to the repo - 30/09/2023
 
 ## Topics to be covered:
     - [ ] Arrays
