@@ -1,7 +1,7 @@
 # Leetcode 300 problem challenge 💐
 
 ## How does the challenge work? 🔥
-    - [x] Set a deadline for 300 problems - 30/09/2023
+    - [X] Set a deadline for 300 problems - 30/09/2023
     - [] Push all the problems to the repo - 30/09/2023
 
 ## Topics to be covered:
