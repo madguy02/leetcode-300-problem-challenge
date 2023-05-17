@@ -1,6 +1,6 @@
-# Leetcode 300 problem challenge 💐
+# 💐 Leetcode 300 problem challenge 💐
 
-## How does the challenge work? 🔥
+## 🔥 How does the challenge work? 🔥
     - [X] Set a deadline for 300 problems - 30/09/2023
     - [ ] Push all the problems to the repo - 30/09/2023
 
@@ -21,10 +21,10 @@
     - [ ] Sorting
     - [ ] Recursion
 
-## Rewards
+## 💵 Rewards 💵
     - [ ] Gift yourself a new phone
 
-## Outcome
+## 💪 Outcome 💪
     - [ ] Strong hold in Datastructures and Algorithms
 
 ** All the links for the questions will be added as per difficulty order and topic wise
