@@ -25,3 +25,24 @@ class Solution {
 
     }
 }
+
+// optimal solution
+
+class Solution {
+    public int missingNumber(int[] nums) {
+        int expect = 0;
+        int sum = 0;
+
+        for (int i=0;i<=nums.length;i++) {
+            expect += i;
+        }
+
+        for (int num: nums) {
+            sum += num;
+        }
+
+        int missing = Math.abs(expect - sum);
+
+        return missing;
+    }
+}
