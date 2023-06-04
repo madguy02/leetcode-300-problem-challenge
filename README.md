@@ -7,7 +7,7 @@
 ## Topics to be covered:
     - [] Arrays:
             Levels:
-                - [] Easy
+                - [x] Easy
                 - [] Medium
                 - [] Hard
 
