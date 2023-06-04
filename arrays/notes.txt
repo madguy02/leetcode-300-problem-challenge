@@ -1,1 +1,19 @@
 Need to do this problem in medium - hard mode: https://leetcode.com/problems/design-hashmap/
+Need to do this problem in easy- medium mode: https://leetcode.com/problems/semi-ordered-permutation
+
+TODO Date: 4/06/2023: 
+1) https://leetcode.com/problems/intersection-of-two-arrays-ii/
+2) https://leetcode.com/problems/find-pivot-index/
+3) https://leetcode.com/problems/rank-transform-of-an-array/
+4) https://leetcode.com/problems/convert-1d-array-into-2d-array/
+5) https://leetcode.com/problems/relative-sort-array/
+
+
+
+Problem sheets:
+
+Striver:
+
+https://takeuforward.org/playlists/top-array-interview-questions-structured-path-with-video-solutions/
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
