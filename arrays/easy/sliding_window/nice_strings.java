@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/find-the-k-beauty-of-a-number
 class Solution {
     public int divisorSubstrings(int num, int k) {
         String s = String.valueOf(num);
