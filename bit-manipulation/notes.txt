@@ -1,0 +1,46 @@
+Bitwise operators:
+
+AND operator: Produces output as 1 if both the input bits are 1 else 0
+
+0 0 = 0
+0 1 = 0
+1 1 = 1
+1 0 = 0
+
+OR operator: Produces output as 1 if either of the input bit is 1
+
+0 0 = 0
+0 1 = 1
+1 0 = 1
+1 1 = 1
+
+XOR operator: If both the input bits are different the output is 1 else if its same then 0
+
+0 0 = 0
+0 1 = 1
+1 1 = 0
+1 0 = 1
+
+NOT operator: It makes a positive number negative and a negative number positive (~)
+              negative numbers have leading bits as 1 and positive numbers have leading bits as 0
+              negative numbers are represented in 2's complement form.
+              If all the bits are 1 then its 2^32-x if one bit is 0 then 2^32-x-1
+
+
+Left shift operator:
+
+Ignores the leading bits and adds the bits to the end.
+
+For example: x = 00000...000011 (x<< 1)
+Here the output is 0000...0000110 (since left shifting by 1 we add 1 zero at the end)
+
+For example: x = 0000...000011 (x << 3)
+Here output is 0...000011000 (since left shifting by 3 we add 3 zeros at the end)
+
+
+Left-shift operator for negative numbers:
+
+x = -1
+1111...1111 (2^32-1)
+x<<1 = 111...11110 (2^32-1-1) = -2
+x<<2 = 1...1111000 (2^32-4) = -4
