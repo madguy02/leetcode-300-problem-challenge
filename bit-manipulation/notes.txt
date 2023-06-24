@@ -44,3 +44,7 @@ x = -1
 1111...1111 (2^32-1)
 x<<1 = 111...11110 (2^32-1-1) = -2
 x<<2 = 1...1111000 (2^32-4) = -4
+
+Materials: 
+
+1) https://leetcode.com/problems/sum-of-two-integers/solutions/84278/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/
