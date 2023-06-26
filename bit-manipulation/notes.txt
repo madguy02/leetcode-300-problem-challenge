@@ -48,3 +48,12 @@ x<<2 = 1...1111000 (2^32-4) = -4
 Materials: 
 
 1) https://leetcode.com/problems/sum-of-two-integers/solutions/84278/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/
+2) Count set bits: https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
+
+How to check if a number is power of 2?:
+
+1. take the number and number-1
+2. If bitwise AND is 0 then its power of 2
+3. this does not hold true for x =0
+Hence: return (x != 0) && ((x & (x - 1)) == 0);
+
